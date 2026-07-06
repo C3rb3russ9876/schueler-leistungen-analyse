@@ -1,4 +1,4 @@
-# Schüler-Leistungs-Analyse & KI-Vorhersage #
+# Schüler-Leistungs-Analyse und KI-Vorhersage #
 
 Dieses Projekt untersucht die Einflussfaktoren auf schulische Leistungen basierend auf einem Datensatz von 25'000 Schülern. Es kombiniert klassische statistische Analysen mit modernem Machine Learning.
 
