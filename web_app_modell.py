@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[18]:
-
-
 import pandas as pd
 import streamlit
 import joblib
@@ -68,4 +62,3 @@ if streamlit.button("Punktzahl berechnen"):
         "Bitte beachte, dass es sich um ein Modell handelt. Die Antworten könnten nicht zu 100% "
         "mit der endgültigen Note übereinstimmen. Das Modell ist zu ca. 90% genau."
     )
-
