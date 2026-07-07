@@ -1,15 +1,9 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[19]:
-
-
 import pandas as pd
 import streamlit
 import joblib
 
 # 1. Modell importieren
-modell = joblib.load(r"C:\Users\beshi\OneDrive - Kt. SG BLD\GitHub\Schüler_Daten\Regressionsmodell\linear_regression_model.pkl")
+modell = joblib.load(r"linear_regression_model.pkl")
 
 # 2. Streamlit UI aufbauen
 streamlit.title("Regressionsmodell für die Vorhersage der Gesamtpunktzahl")
